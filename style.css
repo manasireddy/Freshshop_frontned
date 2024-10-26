@@ -1,0 +1,239 @@
+a:link
+{
+    color: black;
+    text-decoration: none;
+}
+.dropdown-menu a
+{
+    color: lightgray;
+}
+.dropdown-menu
+{
+    display: none;
+}
+.dropdown:hover .dropdown-menu
+{
+    display: block;
+}
+.dropdown-menu .dropdown-item
+{
+    padding: 10px;
+}
+input[type=search]::placeholder
+{
+    color: white;
+}
+.d-flex .nav-link:hover
+{
+    color: #b0b435;
+}
+.d-flex .nav-link
+{
+    font-weight: 700;
+}
+.carousel .carousel-indicators button
+{
+    background-color: transparent;
+    height: 30px;
+    width: 30px;
+    border-radius: 10px;
+    border: 3px solid white;
+}
+.carousel-indicators .active
+{
+    background-color: #b0b435 !important;
+    border: 3px solid #b0b435 !important;
+}
+.carousel .carousel-control-prev
+{
+    background-color: #b0b435;
+    height: 50px;
+    width: 50px;
+    top: 50%;
+}
+.carousel .carousel-control-next
+{
+    background-color: #b0b435;
+    height: 50px;
+    width: 50px;
+    top: 50%;
+}
+.card .card-footer
+{
+    background-color: #b0b435;
+    color: white;
+    text-align: center;
+}
+.card .card-footer:hover
+{
+    background-color: black;
+}
+.cimg
+{
+    overflow-x: hidden;
+}
+.cimg:hover img
+{
+    transform: translate(-5px,-5px);
+    opacity: 0.5;
+    transition: 3s;
+}
+.oimg img:hover
+{
+    transform: translateY(5px);
+    transition: 2s;
+}
+.nav-pills .nav-item .nav-link
+{
+    background-color: #b0b435;
+    color: white;
+}
+.nav-pills .nav-item .active
+{
+    background-color: black !important;
+}
+.price
+{
+    background-color: #b0b435;
+    color: white;
+    text-align: left;
+    padding: 5px;
+    font-size: 18px;
+    width: 30%;
+    font-weight: 700;
+}
+.btn1
+{
+    background-color: #b0b435;
+    color: white;
+    border: 2px solid #b0b435;
+    height: 15%;
+    width: 50%;
+}
+.hide
+{
+    display: none;
+}
+.disp:hover .hide
+{
+    display: block;
+}
+.hide .btn1:hover
+{
+    background-color: black;
+    border: 2px solid black;
+}
+.hide li:hover
+{
+    background-color: black;
+}
+.tooltip
+{
+    margin-left: 7px !important;
+}
+.tooltip .tooltip-inner
+{
+    background-color: #b0b435 !important;
+}
+.tooltip .tooltip-arrow::before
+{
+    border-right-color: #b0b435 !important;
+}
+.d div:hover
+{
+    background-color: #b0b435 !important;
+}
+.pa:hover
+{
+    background-color: #b0b435;
+}
+.na:hover
+{
+    background-color: #b0b435;
+}
+.imgslide img
+{
+    height: 75%;
+    width: 100%;
+}
+.fborder
+{
+    border-bottom: 3px solid #b0b435;
+}
+.sb:hover
+{
+    background-color: black !important;
+}
+.l:hover
+{
+    border-color: #b0b435 !important;
+}
+.l:hover a
+{
+    color: #b0b435 !important;
+}
+.info a
+{
+    color: white;
+}
+.info li:hover
+{
+    color: #b0b435;
+}
+.info li:hover a
+{
+    color: #b0b435;
+    transform: translateX(10px);
+}
+.contact a:hover
+{
+    color: #b0b435 !important;
+}
+.page
+{
+    background-image: url('images/all-bg-title.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-clip: initial;
+    background-origin: initial;
+    background-size: cover;
+    position: relative;
+}
+.cont
+{
+    background-image: url('images/contact-bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.we .card:hover
+{
+    background-color: #b0b435;
+    transition: 2s;
+}
+.tlist
+{
+    display: none;
+}
+.team:hover .tlist
+{
+    display: block !important;
+}
+a:hover
+{
+    color: #b0b435;
+}
+.btn1:hover
+{
+    background-color: black;
+}
+.thd
+{
+    background-color: #b0b435 !important;
+    color: white !important;
+}
+.btn3:hover
+{
+    background-color: #b0b435 !important;
+}
